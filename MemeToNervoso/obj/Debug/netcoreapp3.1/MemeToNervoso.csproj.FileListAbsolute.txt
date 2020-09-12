@@ -1,0 +1,13 @@
+C:\Users\Max Leonel\Desktop\MemeToNervoso\MemeToNervoso\bin\Debug\netcoreapp3.1\MemeToNervoso.exe
+C:\Users\Max Leonel\Desktop\MemeToNervoso\MemeToNervoso\bin\Debug\netcoreapp3.1\MemeToNervoso.deps.json
+C:\Users\Max Leonel\Desktop\MemeToNervoso\MemeToNervoso\bin\Debug\netcoreapp3.1\MemeToNervoso.runtimeconfig.json
+C:\Users\Max Leonel\Desktop\MemeToNervoso\MemeToNervoso\bin\Debug\netcoreapp3.1\MemeToNervoso.runtimeconfig.dev.json
+C:\Users\Max Leonel\Desktop\MemeToNervoso\MemeToNervoso\bin\Debug\netcoreapp3.1\MemeToNervoso.dll
+C:\Users\Max Leonel\Desktop\MemeToNervoso\MemeToNervoso\bin\Debug\netcoreapp3.1\MemeToNervoso.pdb
+C:\Users\Max Leonel\Desktop\MemeToNervoso\MemeToNervoso\obj\Debug\netcoreapp3.1\MemeToNervoso.csprojAssemblyReference.cache
+C:\Users\Max Leonel\Desktop\MemeToNervoso\MemeToNervoso\obj\Debug\netcoreapp3.1\MemeToNervoso.AssemblyInfoInputs.cache
+C:\Users\Max Leonel\Desktop\MemeToNervoso\MemeToNervoso\obj\Debug\netcoreapp3.1\MemeToNervoso.AssemblyInfo.cs
+C:\Users\Max Leonel\Desktop\MemeToNervoso\MemeToNervoso\obj\Debug\netcoreapp3.1\MemeToNervoso.csproj.CoreCompileInputs.cache
+C:\Users\Max Leonel\Desktop\MemeToNervoso\MemeToNervoso\obj\Debug\netcoreapp3.1\MemeToNervoso.dll
+C:\Users\Max Leonel\Desktop\MemeToNervoso\MemeToNervoso\obj\Debug\netcoreapp3.1\MemeToNervoso.pdb
+C:\Users\Max Leonel\Desktop\MemeToNervoso\MemeToNervoso\obj\Debug\netcoreapp3.1\MemeToNervoso.genruntimeconfig.cache
