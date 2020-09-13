@@ -11,3 +11,16 @@ C:\Users\Max Leonel\Desktop\MemeToNervoso\MemeToNervoso\obj\Debug\netcoreapp3.1\
 C:\Users\Max Leonel\Desktop\MemeToNervoso\MemeToNervoso\obj\Debug\netcoreapp3.1\MemeToNervoso.dll
 C:\Users\Max Leonel\Desktop\MemeToNervoso\MemeToNervoso\obj\Debug\netcoreapp3.1\MemeToNervoso.pdb
 C:\Users\Max Leonel\Desktop\MemeToNervoso\MemeToNervoso\obj\Debug\netcoreapp3.1\MemeToNervoso.genruntimeconfig.cache
+C:\Users\Max Leonel\Desktop\Área de Trabalho\ETEC\1ºMódulo\Programação de Computadores I\Visual Studio Repository\2. Entrada de Dados e Strings\MemeToNervoso\MemeToNervoso\bin\Debug\netcoreapp3.1\MemeToNervoso.exe
+C:\Users\Max Leonel\Desktop\Área de Trabalho\ETEC\1ºMódulo\Programação de Computadores I\Visual Studio Repository\2. Entrada de Dados e Strings\MemeToNervoso\MemeToNervoso\bin\Debug\netcoreapp3.1\MemeToNervoso.deps.json
+C:\Users\Max Leonel\Desktop\Área de Trabalho\ETEC\1ºMódulo\Programação de Computadores I\Visual Studio Repository\2. Entrada de Dados e Strings\MemeToNervoso\MemeToNervoso\bin\Debug\netcoreapp3.1\MemeToNervoso.runtimeconfig.json
+C:\Users\Max Leonel\Desktop\Área de Trabalho\ETEC\1ºMódulo\Programação de Computadores I\Visual Studio Repository\2. Entrada de Dados e Strings\MemeToNervoso\MemeToNervoso\bin\Debug\netcoreapp3.1\MemeToNervoso.runtimeconfig.dev.json
+C:\Users\Max Leonel\Desktop\Área de Trabalho\ETEC\1ºMódulo\Programação de Computadores I\Visual Studio Repository\2. Entrada de Dados e Strings\MemeToNervoso\MemeToNervoso\bin\Debug\netcoreapp3.1\MemeToNervoso.dll
+C:\Users\Max Leonel\Desktop\Área de Trabalho\ETEC\1ºMódulo\Programação de Computadores I\Visual Studio Repository\2. Entrada de Dados e Strings\MemeToNervoso\MemeToNervoso\bin\Debug\netcoreapp3.1\MemeToNervoso.pdb
+C:\Users\Max Leonel\Desktop\Área de Trabalho\ETEC\1ºMódulo\Programação de Computadores I\Visual Studio Repository\2. Entrada de Dados e Strings\MemeToNervoso\MemeToNervoso\obj\Debug\netcoreapp3.1\MemeToNervoso.csprojAssemblyReference.cache
+C:\Users\Max Leonel\Desktop\Área de Trabalho\ETEC\1ºMódulo\Programação de Computadores I\Visual Studio Repository\2. Entrada de Dados e Strings\MemeToNervoso\MemeToNervoso\obj\Debug\netcoreapp3.1\MemeToNervoso.AssemblyInfoInputs.cache
+C:\Users\Max Leonel\Desktop\Área de Trabalho\ETEC\1ºMódulo\Programação de Computadores I\Visual Studio Repository\2. Entrada de Dados e Strings\MemeToNervoso\MemeToNervoso\obj\Debug\netcoreapp3.1\MemeToNervoso.AssemblyInfo.cs
+C:\Users\Max Leonel\Desktop\Área de Trabalho\ETEC\1ºMódulo\Programação de Computadores I\Visual Studio Repository\2. Entrada de Dados e Strings\MemeToNervoso\MemeToNervoso\obj\Debug\netcoreapp3.1\MemeToNervoso.csproj.CoreCompileInputs.cache
+C:\Users\Max Leonel\Desktop\Área de Trabalho\ETEC\1ºMódulo\Programação de Computadores I\Visual Studio Repository\2. Entrada de Dados e Strings\MemeToNervoso\MemeToNervoso\obj\Debug\netcoreapp3.1\MemeToNervoso.dll
+C:\Users\Max Leonel\Desktop\Área de Trabalho\ETEC\1ºMódulo\Programação de Computadores I\Visual Studio Repository\2. Entrada de Dados e Strings\MemeToNervoso\MemeToNervoso\obj\Debug\netcoreapp3.1\MemeToNervoso.pdb
+C:\Users\Max Leonel\Desktop\Área de Trabalho\ETEC\1ºMódulo\Programação de Computadores I\Visual Studio Repository\2. Entrada de Dados e Strings\MemeToNervoso\MemeToNervoso\obj\Debug\netcoreapp3.1\MemeToNervoso.genruntimeconfig.cache

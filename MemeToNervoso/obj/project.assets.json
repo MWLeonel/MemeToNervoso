@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Max Leonel\\Desktop\\MemeToNervoso\\MemeToNervoso\\MemeToNervoso.csproj",
+      "projectUniqueName": "C:\\Users\\Max Leonel\\Desktop\\Área de Trabalho\\ETEC\\1ºMódulo\\Programação de Computadores I\\Visual Studio Repository\\2. Entrada de Dados e Strings\\MemeToNervoso\\MemeToNervoso\\MemeToNervoso.csproj",
       "projectName": "MemeToNervoso",
-      "projectPath": "C:\\Users\\Max Leonel\\Desktop\\MemeToNervoso\\MemeToNervoso\\MemeToNervoso.csproj",
+      "projectPath": "C:\\Users\\Max Leonel\\Desktop\\Área de Trabalho\\ETEC\\1ºMódulo\\Programação de Computadores I\\Visual Studio Repository\\2. Entrada de Dados e Strings\\MemeToNervoso\\MemeToNervoso\\MemeToNervoso.csproj",
       "packagesPath": "C:\\Users\\Max Leonel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Max Leonel\\Desktop\\MemeToNervoso\\MemeToNervoso\\obj\\",
+      "outputPath": "C:\\Users\\Max Leonel\\Desktop\\Área de Trabalho\\ETEC\\1ºMódulo\\Programação de Computadores I\\Visual Studio Repository\\2. Entrada de Dados e Strings\\MemeToNervoso\\MemeToNervoso\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Max Leonel\\AppData\\Roaming\\NuGet\\NuGet.Config",

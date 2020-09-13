@@ -15,9 +15,8 @@ namespace MemeToNervoso
             //<---Fim(Digite)--->//
 
             //<---Inicio(Nervoso)--->//
-            Console.Write(" -E sabe o que eu penso de você?\n");
-            Console.WriteLine("Você é mui... NÃO PERA\nTo nervoso");
-            Console.Write("\n");
+            Console.WriteLine(" -E sabe o que eu penso de você?");
+            Console.WriteLine($"{nervoso.Remove(10)} ... NÃO, PERA.\nTo nervoso");
             //<---Fim(Nervoso)--->//
 
             //<---Inicio(Sair)--->//
